@@ -1,4 +1,4 @@
-A Simple Calculator
+<h1>A Simple Calculator</h1><br>
 The Calculator App is a simple and intuitive calculator designed for Android devices. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division,
 allowing users to perform calculations on the go.
 
